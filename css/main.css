@@ -1,0 +1,184 @@
+*{
+	font-family: Helvetica;
+	text-align:center;
+}
+header{
+	padding: 15px 0;
+	margin: 0 auto;
+	height: 100px;
+}
+.header img{
+	padding-bottom: 20px;
+}
+nav ul{
+	position: absolute;
+	left: 450px;
+	top: 50px;
+}
+nav li{
+	list-style: none;
+	display: inline-block;
+}
+nav a{
+	text-decoration: none;
+	color: #A4A4A4;
+	padding: 10px 20px;
+	font-size: 24px;
+}
+.intro{
+	background-color: #E6E6E6;
+	padding: 50px 0px;
+}
+.intro p{
+	color: #898989;
+	padding: 100px ;
+	font-size: 21px;
+	text-align: center;
+	position: relative;
+	left: 80px;
+}
+.misionvision{
+	padding: 60px 0px;
+}
+.misionvision p{
+	color: #898989;
+	font-size: 22px;
+	font-family: Tahoma;
+	padding: 10px;
+	position: relative;
+	top: 20px;
+}
+.misionvision img {
+	position: relative;
+	top: 20px;
+}
+.misionvision h1{
+	position: relative;
+	top: 20px;
+}
+.metodologia h1{
+	padding-bottom: 20px;
+	color: white;
+	position: relative;
+	bottom: 300px;
+}
+.metod{
+	padding: 40px;
+}
+.metod p{
+	color: white;
+	font-size: 20px;
+	margin-top: 20px;
+	position: relative;
+	bottom: 300px;
+	line-height: 40px;	
+ }
+ .imagenmetodo{
+ 	position: relative;
+ 	bottom: 330px;
+  }
+.servicios {
+	margin-top: -70px;
+	padding: 30px;
+	position: relative;
+	bottom: 30px;
+}
+.servicios h1 {
+	font-size: 30px;
+}
+.servicios p {
+	margin-top: 20px;
+	font-size: 22px;
+}
+.iconos1{
+	text-align: center;
+	margin: 5%;
+}
+.iconos1 h1{
+	font-size: 24px;
+	padding-bottom: 5px;
+	color: #0B3B0B;
+}
+.iconos1 p{
+	font-size: 20px;
+}
+.imagen1{
+	position: relative;
+	margin: 30px;
+}
+.proyecto{
+	background-color: #5D872F;
+	color: white;
+	text-align: center;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.proyecto p{
+	margin-left: 80px;
+	font-size: 20px;
+	padding: 10px 30px;
+}
+.equipo img{
+	border-radius: 100px;
+}
+.equipo{
+	text-align: center;
+	padding: 40px;
+}
+.iconos img{
+	border-radius: 5px;
+	margin-top: 20px;
+	margin: 10px;
+}
+.equipo h2{
+	margin: 10px;
+}
+.equipo p{
+	padding:10px 80px;
+	font-size: 18px; 
+}
+.fondogris{
+	position: absolute;
+}
+.blog1{
+	position: relative;
+	top: 30px;
+	padding-left: 70px;
+	padding-right: 30px;
+	color: gray;
+}
+.blog1 p{
+	padding-right: 20px;
+	font-size: 20px;
+	margin: 10px;
+}
+.redes {
+	background: gray;
+	height: 200px;
+}
+.redes p {
+	padding-bottom: 40px; 
+}
+.cuadrado{
+	border: solid white 1px;
+	width: 250px;
+	height: 200px;
+	background-color: transparent;
+}
+span {
+	color: orange;
+}
+.uno{
+	text-align: left;
+}
+.dos{
+	text-align: right;
+}
+ footer{
+ 	position: relative;
+ 	top: 100px;
+	padding: 15px 0;
+	margin: 0 auto;
+	height: 100px;
+	color: gray;
+}
